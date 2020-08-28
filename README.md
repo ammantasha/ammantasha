@@ -27,7 +27,7 @@ Interested in Software Development, Cyber Security, & Cloud Computing.**
 <a href="https://github.com/ammantasha">
   <img align="left" alt="Mantasha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="(https://www.instagram.com/its_me_mantasha5">
+<a href="https://www.instagram.com/its_me_mantasha5">
   <img align="left" alt="Mantasha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
