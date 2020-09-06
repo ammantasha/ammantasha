@@ -42,6 +42,4 @@ Interested in Software Development, Cyber Security, & Cloud Computing.**
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ammantasha&layout=compact)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AasthaGithub&repo=DSA_Team12_Uplift_Project)](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project)
-
 ---
